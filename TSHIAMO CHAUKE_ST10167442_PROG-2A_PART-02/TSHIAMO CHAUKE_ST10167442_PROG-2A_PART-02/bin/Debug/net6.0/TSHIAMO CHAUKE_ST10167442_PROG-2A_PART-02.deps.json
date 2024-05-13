@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TSHIAMO CHAUKE_ST10167442_PROG-2A_PART-02/1.0.0": {
+        "runtime": {
+          "TSHIAMO CHAUKE_ST10167442_PROG-2A_PART-02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TSHIAMO CHAUKE_ST10167442_PROG-2A_PART-02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
